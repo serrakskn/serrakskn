@@ -1,16 +1,26 @@
-### Hi there I'm Serra 👋
+<h1 align="center">Hi, I'm Serra 👋</h1>
 
-<!--
-**serrakskn/serrakskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Software engineering student | 👩‍💻 Developer-in-progress | 🎓 42 Kocaeli
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+
+- 🎓 Currently focused on C, C++, Python, and system-level programming  
+- 🧠 Passionate about computer vision, automation, and low-level development  
+- ⚙️ Exploring embedded systems, OpenCV, and operating system internals  
+- 🔧 I enjoy breaking problems into logic, building CLI tools and exploring backend tech  
+- 📚 I like writing clean, readable code and explaining complex topics simply
+
+---
+
+### 🧰 Tech Stack
+
+```text
+Languages:     C, C++, Python, Bash
+Dev Tools:     Git, VSCode, GDB, Valgrind
+Libraries:     OpenCV, pthreads, STL, ncurses
+Systems:       Linux (Debian/Alpine), Docker, Shell scripting
+Projects:      CLI tools, IRC server, Philosopher simulation, Minishell, Cub3D
