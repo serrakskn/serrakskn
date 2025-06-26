@@ -23,4 +23,3 @@ Languages:     C, C++, Python, Bash
 Dev Tools:     Git, VSCode, GDB, Valgrind
 Libraries:     OpenCV, pthreads, STL, ncurses
 Systems:       Linux (Debian/Alpine), Docker, Shell scripting
-Projects:      CLI tools, IRC server, Philosopher simulation, Minishell, Cub3D
